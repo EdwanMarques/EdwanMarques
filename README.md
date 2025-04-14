@@ -34,3 +34,5 @@ Backend: Node.js, WebSocket, Microservices
 IA: Gemini, LLMs, Narrativas adaptativas  
 Dados: PostgreSQL, MongoDB  
 DevOps: Docker, Vercel
+
+![snake gif](https://github.com/edwan/edwan/blob/output/github-contribution-grid-snake.svg)
